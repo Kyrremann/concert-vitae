@@ -1,6 +1,6 @@
 .bio {
   max-width: 500px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .bio__header {
@@ -8,11 +8,11 @@
   font-weight: 700;
 
   a {
-  	text-decoration: none;
+    text-decoration: none;
 
-  	&:hover {
-  		text-decoration: none;
-  	}
+    &:hover {
+      text-decoration: none;
+    }
   }
 }
 
@@ -21,4 +21,11 @@
   margin-top: 10px;
   padding: 0;
   list-style: none;
+}
+
+// media queries
+@media (max-width: $on-palm) {
+  .bio__header {
+    margin-bottom: 0px;
+  }
 }
