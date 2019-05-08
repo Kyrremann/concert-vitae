@@ -7,8 +7,7 @@
   list-style: none;
 }
 
-.row__cols,
-.row__post {
+.row__cols {
   display: block;
   margin-bottom: 10px;
 }
@@ -18,17 +17,12 @@
   overflow: hidden;
 }
 
-.row__post {
-  width: 100%;
-  overflow: hidden;
-}
-
 .header__title,
 .header__date,
 .header__venue,
 .row__title,
 .row__date,
-.row__cat {
+.row__venue {
   float: left;
 }
 
@@ -36,15 +30,17 @@
   width: 100%;
 }
 
+
 .header__date,
 .header__venue,
 .row__date,
-.row__cat {
+.row__venue {
   width: auto;
 }
 
+.header__date,
 .header__venue,
-.row__cat {
+.row__venue {
   position: relative;
   margin-left: 10px;
 
@@ -59,49 +55,8 @@
   margin: 20px 0;
 }
 
-// behaviors
-.row__active {
-  text-decoration: line-through;
-}
-
-// media queries
-@include media-query($on-laptop) {
-  .row__post {
-    &:hover {
-      * {
-        text-decoration: underline;
-      }
-
-      .row__active {
-        text-decoration: line-through;
-      }
-    }
-
-    &:nth-child(2n) .row__img {
-      top: random(250) - random(250) + px;
-      left: random(500) + px;
-    }
-
-    &:nth-child(3n) .row__img {
-      top: random(250) - random(250) + px;
-      left: random(500) + px;
-    }
-
-    &:nth-child(4n) .row__img {
-      top: random(250) - random(250) + px;
-      left: random(500) + px;
-    }
-
-    &:nth-child(5n) .row__img {
-      top: random(250) - random(250) + px;
-      left: random(500) + px;
-    }
-  }
-}
-
 @include media-query($on-palm) {
-  .row__cols,
-  .row__post {
+  .row__cols {
     margin: 0;
   }
 
@@ -113,33 +68,16 @@
   .header__date,
   .header__venue,
   .row__date,
-  .row__cat {
+  .row__venue {
     width: 25%;
   }
 
   .header__venue,
-  .row__cat {
+  .row__venue {
     margin: 0;
 
     &:before {
       content: '';
-    }
-  }
-}
-
-@media (max-width: $on-palm) {
-  .header__title {
-    width: auto;
-  }
-
-  .header__date {
-    position: relative;
-    margin-left: 10px;
-
-    &:before {
-      position: absolute;
-      content: '|';
-      left: -9px;
     }
   }
 }

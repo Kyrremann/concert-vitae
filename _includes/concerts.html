@@ -13,15 +13,13 @@
     </li>
     {% for concert in site.data.concerts %}
       <li class="row__post">
-	<a href="https://www.last.fm/music/{{ concert.title }}">
         <div class="row__title">
           {{ concert.title }}
         </div>
-	</a>
         <div class="row__date">
           {{ concert.date | date: "%b %-d, %y" }}
         </div>
-        <div class="row__cat">
+        <div class="row__venue">
           {{ concert.venue }}
         </div>
       </li>
