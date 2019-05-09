@@ -67,6 +67,10 @@
   date: 12.02.2019
   venue: Sentrum Scene
   support: The Beths
+- title: Kikagaku Moyo
+  date: 24.11.2018
+  venue: Blå
+  support: MaidaVale
 - title: Leonov
   date: 23.11.2018
   venue: Blå
@@ -74,6 +78,10 @@
 - title: Ross From Friends
   date: 27.10.2018
   venue: Jaeger
+- title: Author & Punisher
+  date: 19.10.2018
+  venue: Blå
+  support: Okkultokrati
 - title: Current 93
   date: 13.10.2018
   venue: O2 Shepherds Bush Empire, London
@@ -81,15 +89,56 @@
 - title: Mark Kozelek
   date: 11.10.2018
   venue: Union Chapel, London
-- title: TODO - Vivid 2018
+- title: Electric Moon
+  date: 06.10.2018
+  venue: Kulturkirken Jakob (Høstsabbat)
+- title: Spurv
+  date: 05.10.2018
+  venue: Kulturkirken Jakob (Høstsabbat)
+- title: Hällas
+  date: 05.10.2018
+  venue: Kulturkirken Jakob (Høstsabbat)
+- title: Carpenter Brut
+  date: 04.10.2018
+  venue: Vulkan Arena
+  support: Gost
+- title: Caspian
   date: 22.09.2018
-  venue: Sirkus
-- title: TODO - Vivid 2018
+  venue: Aladdin Scene (Vivid)
+- title: Mooncake
+  date: 22.09.2018
+  venue: Aladdin Scene (Vivid)
+- title: The Samuel Jackson Five
+  date: 22.09.2018
+  venue: Aladdin Scene (Vivid)
+- title: Spoiwo
+  date: 22.09.2018
+  venue: Aladdin Scene (Vivid)
+- title: Spurv
   date: 21.09.2018
-  venue: Sirkus
+  venue: Aladdin Scene (Vivid)
+- title: The Best Pessimist
+  date: 21.09.2018
+  venue: Aladdin Scene (Vivid)
+- title: Trna
+  date: 21.09.2018
+  venue: Aladdin Scene (Vivid)
+- title: Hegy
+  date: 21.09.2018
+  venue: Aladdin Scene (Vivid)
+- title: Fedrespor + Grift + Forndom
+  date: 16.09.2018
+  venue: Emanuel Vigeland Museum
+- title: Leonov + Duvel
+  date: 24.08.2018
+  venue: Vaterland
+- title: Dark on Tuesday
+  date: 18.07.2018
+  venue: Mono
 - title: Slowdive
   date: 18.07.2018
   venue: Rockefeller
+  support: Lost Girls
 - title: Spurv
   date: 08.06.2018
   venue: Nasjonal Jazzscene
@@ -97,13 +146,48 @@
 - title: Jex Thoth + Grails
   date: 22.05.2018
   venue: Blå
+- title: Godflesh
+  date: 19.05.2018
+  venue: Blå
+  support: Prurient
 - title: A Place To Bury Strangers
   date: 05.05.2018
   venue: Blå
+  support: Buck Gooter
 - title: We Stood Like Kings
   date: 01.05.2018
   venue:  Spillestedet Stengade, Denmark
   support: Sagor Som Leder Mot Slutet
+- title: Ugress
+  date: 25.04.2018
+  venue: Deichman Hovedbibliotek
+- title: Zola Jesus
+  date: 21.04.2018
+  venue: Koepelhal (Roadburn)
+- title: Boris With Stephen O'Malley
+  date: 21.04.2018
+  venue: Main Stage/013 (Roadburn)
+- title: Igorrr
+  date: 20.04.2018
+  venue: Koepelhal (Roadburn)
+- title: Minami Deutsch
+  date: 20.04.2018
+  venue: Green Room/013 (Roadburn)
+- title: Kikagaku Moyo
+  date: 20.04.2018
+  venue: Koepelhal (Roadburn)
+- title: Bong-Ra + Servants Of The Apocalyptic Goat Rave
+  date: 19.04.2018
+  venue: Green Room/013 (Roadburn)
+- title: Hällas
+  date: 19.04.2018
+  venue: Het Patronaat (Roadburn)
+- title: Earthless
+  date: 19.04.2018
+  venue: Main Stage/013 (Roadburn)
+- title: Waste Of Space Orchestra
+  date: 19.04.2018
+  venue: Main Stage/013 (Roadburn)
 - title: Ulver
   date: 15.04.2018
   venue: Henie Onstad Kunstsenter
@@ -114,6 +198,10 @@
   date: 09.02.2018
   venue: Revolver
   support: Firebreather
+- title: Rome
+  date: 29.01.2018
+  venue: Revolver
+  support: Harakiri For The Sky
 - title: Pain
   date: 27.01.2018
   venue: John Dee
