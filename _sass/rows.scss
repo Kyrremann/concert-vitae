@@ -42,17 +42,25 @@
 .header__venue,
 .row__venue {
   position: relative;
-  margin-left: 10px;
-
-  &:before {
-    position: absolute;
-    content: '|';
-    left: -9px;
-  }
 }
 
 .row__body {
   margin: 20px 0;
+}
+
+@media (max-width: $on-palm) {
+  .header__date,
+  .header__venue,
+  .row__venue {
+    position: relative;
+    margin-left: 10px;
+
+    &:before {
+      position: absolute;
+      content: '|';
+      left: -9px;
+    }
+  }
 }
 
 @include media-query($on-palm) {
