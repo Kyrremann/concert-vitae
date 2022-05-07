@@ -15,6 +15,9 @@
       <li class="row__post">
         <div class="row__title">
           {{ concert.title }}
+          {% if concert.support %}
+            (support: {{ concert.support }})
+          {% endif %}
         </div>
         <div class="row__date">
           {{ concert.date | date: "%b %-d, %y" }}
