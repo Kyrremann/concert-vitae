@@ -54,79 +54,104 @@
   venue: Sentrum Scene
 - title: Ural Umbo
   date: 24.04.2022
-  venue: Hall of Fame (Roadburn)
+  venue: Hall of Fame
+  festival: Roadburn
 - title: Mandy, Indiana
   date: 24.04.2022
-  venue: Hall of Fame (Roadburn)
+  venue: Hall of Fame
+  festival: Roadburn
 - title: Lingua Ignota
   date: 24.04.2022
-  venue: Main Stage/013 (Roadburn)
+  venue: Main Stage/013
+  festival: Roadburn
 - title: Euroboy & Alicia Breton Ferrer
   date: 24.04.2022
-  venue: Hall of Fame (Roadburn)
+  venue: Hall of Fame
+  festival: Roadburn
 - title: The Devil's Trade x John Cxnner
   date: 24.04.2022
-  venue: Next Stage/013 (Roadburn)
+  venue: Next Stage/013
+  festival: Roadburn
 - title: Ulver
   date: 23.04.2022
-  venue: Main Stage/013 (Roadburn)
+  venue: Main Stage/013
+  festival: Roadburn
 - title: Kælan Mikla
   date: 23.04.2022
-  venue: Engine Room/Koepelhal (Roadburn)
+  venue: Engine Room/Koepelhal
+  festival: Roadburn
 - title: Five the Hierophant
   date: 23.04.2022
-  venue: Next Stage/013 (Roadburn)
+  venue: Next Stage/013
+  festival: Roadburn
 - title: Deathsomnia
   date: 23.04.2022
-  venue: Hall of Fame (Roadburn)
+  venue: Hall of Fame
+  festival: Roadburn
 - title: Radar Men From The Moon
   date: 23.04.2022
-  venue: Next Stage/013 (Roadburn)
+  venue: Next Stage/013
+  festival: Roadburn
 - title: Kanaan
   date: 23.04.2022
-  venue: Hall of Fame (Roadburn)
+  venue: Hall of Fame
+  festival: Roadburn
 - title: Jo Quial
   date: 23.04.2022
-  venue: Main Stage (Roadburn)
-- title: Divide & Dissolve 
+  venue: Main Stage
+  festival: Roadburn
+- title: Divide & Dissolve
   date: 23.04.2022
-  venue: The Terminal/Koepelhal (Roadburn)
+  venue: The Terminal/Koepelhal
+  festival: Roadburn
 - title: Health
   date: 22.04.2022
-  venue: Engine Room/Koepelhal (Roadburn)
+  venue: Engine Room/Koepelhal
+  festival: Roadburn
 - title: Amnesia Scanner
   date: 22.04.2022
-  venue: The Terminal/Koepelhal (Roadburn)
+  venue: The Terminal/Koepelhal
+  festival: Roadburn
 - title: Arottenbit
   date: 22.04.2022
-  venue: Ladybird/Skatepark (Roadburn)
+  venue: Ladybird/Skatepark
+  festival: Roadburn
 - title: GGGOLDDD
   date: 22.04.2022
-  venue: Main Stage/013 (Roadburn)
+  venue: Main Stage/013
+  festival: Roadburn
 - title: Zetra
   date: 22.04.2022
-  venue: Next Stage/013 (Roadburn)
+  venue: Next Stage/013
+  festival: Roadburn
 - title: Atonia
   date: 22.04.2022
-  venue: Next Stage/013 (Roadburn)
+  venue: Next Stage/013
+  festival: Roadburn
 - title: The Bug - feat. Flowdan and Logan
   date: 21.04.2022
-  venue: Next Stage/013 (Roadburn)
+  venue: Next Stage/013
+  festival: Roadburn
 - title: Zaäar
   date: 21.04.2022
-  venue: Paradox (Roadburn)
+  venue: Paradox
+  festival: Roadburn
 - title: Trialogos
   date: 21.04.2022
-  venue: Next Stage/013 (Roadburn)
-- title: Dirk Serries (solo set) 
+  venue: Next Stage/013
+  festival: Roadburn
+- title: Dirk Serries (solo set)
   date: 21.04.2022
-  venue: Paradox (Roadburn)
+  venue: Paradox
+  festival: Roadburn
 - title: Year of No Light
   date: 21.04.2022
-  venue: The Terminal/Koepelhal (Roadburn)
+  venue: The Terminal/Koepelhal
+  festival: Roadburn
 - title: Forndom
   date: 21.04.2022
-  venue: Next Stage/013 (Roadburn)
+  venue: Next Stage/013
+  festival: Roadburn
 - title: Nadja
   date: 25.03.2022
   venue: Blå
@@ -144,16 +169,20 @@
   support: Kite
 - title: Conan
   date: 09.10.2021
-  venue: The Chapel (Høstsabbat)
+  venue: The Chapel
+  festival: Høstsabbat
 - title: Causa Sui
   date: 09.10.2021
-  venue: The Chapel (Høstsabbat)
+  venue: The Chapel
+  festival: Høstsabbat
 - title: Shaving the Werewolf
   date: 09.10.2021
-  venue: Verkstedet (Høstsabbat)
+  venue: Verkstedet
+  festival: Høstsabbat
 - title: Kryptograf
   date: 09.10.2021
-  venue: The Crypt (Høstsabbat)
+  venue: The Crypt
+  festival: Høstsabbat
 - title: Aiming for Enrike
   date: 15.07.2021
   venue: Blå
@@ -207,70 +236,91 @@
   venue: Rockefeller
 - title: Barren Womb
   date: 05.10.2019
-  venue: Verkstedet (Høstsabbat)
+  venue: Verkstedet
+  festival: Høstsabbat
 - title: Colour Haze
   date: 05.10.2019
-  venue: The Chapel (Høstsabbat)
+  venue: The Chapel
+  festival: Høstsabbat
 - title: The Devil & The Almighty Blues
   date: 05.10.2019
-  venue: The Chapel (Høstsabbat)
+  venue: The Chapel
+  festival: Høstsabbat
 - title: Belzebong
   date: 05.10.2019
-  venue: The Chapel (Høstsabbat)
+  venue: The Chapel
+  festival: Høstsabbat
 - title: Papir
   date: 05.10.2019
-  venue: The Crypt (Høstsabbat)
+  venue: The Crypt
+  festival: Høstsabbat
 - title: Hexvessel
   date: 05.10.2019
-  venue: The Chapel (Høstsabbat)
+  venue: The Chapel
+  festival: Høstsabbat
 - title: Ufomammut
   date: 04.10.2019
-  venue: The Chapel (Høstsabbat)
+  venue: The Chapel
+  festival: Høstsabbat
 - title: Yuri Gagarin
   date: 04.10.2019
-  venue: The Crypt (Høstsabbat)
+  venue: The Crypt
+  festival: Høstsabbat
 - title: Sunnata
   date: 04.10.2019
-  venue: The Chapel (Høstsabbat)
+  venue: The Chapel
+  festival: Høstsabbat
 - title: Stuck in Motion
   date: 04.10.2019
-  venue: The Crypt (Høstsabbat)
+  venue: The Crypt
+  festival: Høstsabbat
 - title: Electric Eye
   date: 04.10.2019
-  venue: The Chapel (Høstsabbat)
+  venue: The Chapel
+  festival: Høstsabbat
 - title: Kanaan
   date: 04.10.2019
-  venue: Verkstedet (Høstsabbat)
+  venue: Verkstedet
+  festival: Høstsabbat
 - title: Current 93
   date: 03.10.2019
   venue: Asker Kulturhus
 - title: And So I Watch You From Afar
   date: 21.09.2019
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Long Distance Calling
   date: 21.09.2019
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: The Seven Mile Journey
   date: 21.09.2019
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: A Swarm of the Sun
   date: 21.09.2019
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Monograf
   date: 21.09.2019
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Nordic Giants
   date: 20.09.2019
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Aiming for Enrike
   date: 20.09.2019
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Indignu
   date: 20.09.2019
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: "417.3"
   date: 20.09.2019
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: The Samuel Jackson Five
   date: 31.08.2019
   venue: Vaterland (Vivid. Oslo)
@@ -282,91 +332,119 @@
   venue: Vaterland (Vivid. Oslo)
 - title: Heilung
   date: 17.08.2019
-  venue: Valhalla (Midgardsblot)
+  venue: Valhalla
+  festival: Midgardsblot
 - title: Enslaved
   date: 17.08.2019
-  venue: Valhalla (Midgardsblot)
+  venue: Valhalla
+  festival: Midgardsblot
 - title: Einherjer
   date: 17.08.2019
-  venue: Valhalla (Midgardsblot)
+  venue: Valhalla
+  festival: Midgardsblot
 - title: Runahild
   date: 17.08.2019
-  venue: Gildehallen (Midgardsblot)
+  venue: Gildehallen
+  festival: Midgardsblot
 - title: Gåte
   date: 16.08.2019
-  venue: Valhalla (Midgardsblot)
+  venue: Valhalla
+  festival: Midgardsblot
 - title: Hugsjá/Skuggjsá
   date: 15.08.2019
-  venue: Valhalla (Midgardsblot)
+  venue: Valhalla
+  festival: Midgardsblot
 - title: Leonov
   date: 06.08.2019
-  venue: Vulkan (Klubbøya)
+  venue: Vulkan
+  festival: Klubbøya
 - title: Syndrom
   date: 06.08.2019
-  venue: Vulkan (Klubbøya)
+  venue: Vulkan
+  festival: Klubbøya
 - title: Takomaha
   date: 06.08.2019
-  venue: Vulkan (Klubbøya)
+  venue: Vulkan
+  festival: Klubbøya
 - title: Om
   date: 07.05.2019
   venue: Kulturkirken Jakob
 - title: Birds in Row
   date: 14.04.2019
-  venue: Het Patronaat (Roadburn)
+  venue: Het Patronaat
+  festival: Roadburn
 - title: Bossk
   date: 14.04.2019
-  venue: Green Room/013 (Roadburn)
+  venue: Green Room/013
+  festival: Roadburn
 - title: Bismuth
   date: 14.04.2019
-  venue: Ladybird Skatepark (Roadburn)
+  venue: Ladybird Skatepark
+  festival: Roadburn
 - title: Fear Falls Burning
   date: 14.04.2019
-  venue: Het Patronaat (Roadburn)
+  venue: Het Patronaat
+  festival: Roadburn
 - title: Have A Nice Life
   date: 14.04.2019
-  venue: Main Stage/013 (Roadburn)
+  venue: Main Stage/013
+  festival: Roadburn
 - title: Uran GBG
   date: 13.04.2019
-  venue: Main Stage/013 (Roadburn)
+  venue: Main Stage/013
+  festival: Roadburn
 - title: Louise Lemón
   date: 13.04.2019
-  venue: Green Room/013 (Roadburn)
+  venue: Green Room/013
+  festival: Roadburn
 - title: GlerAkur
   date: 13.04.2019
-  venue: De Koepelhal (Roadburn)
+  venue: De Koepelhal
+  festival: Roadburn
 - title: Black Bombaim and Peter Brötzmann
   date: 12.04.2019
-  venue: Green Room/013 (Roadburn)
+  venue: Green Room/013
+  festival: Roadburn
 - title: Grails
   date: 12.04.2019
-  venue: Main stage/013 (Roadburn)
+  venue: Main stage/013
+  festival: Roadburn
 - title: Deafkids & Petbrick
   date: 12.04.2019
-  venue: Het Patronaat (Roadburn)
+  venue: Het Patronaat
+  festival: Roadburn
 - title: Mythic Sunship
   date: 12.04.2019
-  venue: Het Patronaat (Roadburn)
+  venue: Het Patronaat
+  festival: Roadburn
 - title: Seven That Spells
   date: 12.04.2019
-  venue: Green Room/013 (Roadburn)
+  venue: Green Room/013
+  festival: Roadburn
 - title: MONO and the Jo Quail Project
   date: 11.04.2019
-  venue: Main Stage/013 (Roadburn)
+  venue: Main Stage/013
+  festival: Roadburn
 - title: Bliss Signal
   date: 11.04.2019
-  venue: Green Room/013 (Roadburn)
+  venue: Green Room/013
+  festival: Roadburn
 - title: Mythic Sunship
   date: 11.04.2019
-  venue: Ladybird Skatepark (Roadburn)
+  venue: Ladybird Skatepark
+  festival: Roadburn
 - title: Lingua Ignota
   date: 11.04.2019
-  venue: Green Room/013 (Roadburn)
+  venue: Green Room/013
+  festival: Roadburn
 - title: Treha Sektori
   date: 11.04.2019
-  venue: Green Room/013 (Roadburn)
+  venue: Green Room/013
+  festival: Roadburn
 - title: Thor & Friends
   date: 11.04.2019
-  venue: Green Room/013 (Roadburn)
+  venue: Green Room/013
+  festival: Roadburn
 - title: Dälek
   date: 28.03.2019
   venue: Blå
@@ -403,41 +481,52 @@
   venue: Union Chapel, London
 - title: Electric Moon
   date: 06.10.2018
-  venue: Kulturkirken Jakob (Høstsabbat)
+  venue: Kulturkirken Jakob
+  festival: Høstsabbat
 - title: Spurv
   date: 05.10.2018
-  venue: Kulturkirken Jakob (Høstsabbat)
+  venue: Kulturkirken Jakob
+  festival: Høstsabbat
 - title: Hällas
   date: 05.10.2018
-  venue: Kulturkirken Jakob (Høstsabbat)
+  venue: Kulturkirken Jakob
+  festival: Høstsabbat
 - title: Carpenter Brut
   date: 04.10.2018
   venue: Vulkan Arena
   support: Gost
 - title: Caspian
   date: 22.09.2018
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Mooncake
   date: 22.09.2018
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: The Samuel Jackson Five
   date: 22.09.2018
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Spoiwo
   date: 22.09.2018
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Spurv
   date: 21.09.2018
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: The Best Pessimist
   date: 21.09.2018
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Trna
   date: 21.09.2018
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Hegy
   date: 21.09.2018
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Fedrespor + Grift + Forndom
   date: 16.09.2018
   venue: Emanuel Vigeland Museum
@@ -475,31 +564,40 @@
   venue: Deichman Hovedbibliotek
 - title: Zola Jesus
   date: 21.04.2018
-  venue: Koepelhal (Roadburn)
+  venue: Koepelhal
+  festival: Roadburn
 - title: "Boris With Stephen O'Malley"
   date: 21.04.2018
-  venue: Main Stage/013 (Roadburn)
+  venue: Main Stage/013
+  festival: Roadburn
 - title: Igorrr
   date: 20.04.2018
-  venue: Koepelhal (Roadburn)
+  venue: Koepelhal
+  festival: Roadburn
 - title: Minami Deutsch
   date: 20.04.2018
-  venue: Green Room/013 (Roadburn)
+  venue: Green Room/013
+  festival: Roadburn
 - title: Kikagaku Moyo
   date: 20.04.2018
-  venue: Koepelhal (Roadburn)
+  venue: Koepelhal
+  festival: Roadburn
 - title: Bong-Ra + Servants Of The Apocalyptic Goat Rave
   date: 19.04.2018
-  venue: Green Room/013 (Roadburn)
+  venue: Green Room/013
+  festival: Roadburn
 - title: Hällas
   date: 19.04.2018
-  venue: Het Patronaat (Roadburn)
+  venue: Het Patronaat
+  festival: Roadburn
 - title: Earthless
   date: 19.04.2018
-  venue: Main Stage/013 (Roadburn)
+  venue: Main Stage/013
+  festival: Roadburn
 - title: Waste Of Space Orchestra
   date: 19.04.2018
-  venue: Main Stage/013 (Roadburn)
+  venue: Main Stage/013
+  festival: Roadburn
 - title: Ulver
   date: 15.04.2018
   venue: Henie Onstad Kunstsenter
@@ -531,28 +629,36 @@
   venue: Bozar Cinema, Brussel
 - title: Show Me A Dinosaur
   date: 22.09.2017
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Leonov
   date: 22.09.2017
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Shipwrecks
   date: 22.09.2017
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Year Of No Light
   date: 22.09.2017
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Mokri
   date: 21.09.2017
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: The Shaking Sensations
   date: 21.09.2017
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Silent Whale Becomes A Dream
   date: 21.09.2017
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Sleepmakeswaves
   date: 21.09.2017
-  venue: Aladdin Scene (Vivid)
+  venue: Aladdin Scene
+  festival: Vivid
 - title: Pow Pow
   date: 01.09.2017
   venue: Revolver
@@ -561,28 +667,36 @@
   venue: Salt
 - title: Karpe Diem
   date: 19.08.2017
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Matoma
   date: 19.08.2017
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Cezinando
   date: 19.08.2017
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Alesso
   date: 18.08.2017
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Tiësto
   date: 18.08.2017
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Alan Walker
   date: 18.08.2017
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Galantis
   date: 18.08.2017
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Julie Bergan
   date: 18.08.2017
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Acid King
   date: 22.07.2017
   venue: John Dee
@@ -601,31 +715,40 @@
   venue: Spektrum
 - title: Wintergatan
   date: 07.09.2016
-  venue: Spektrum (Javazone)
+  venue: Spektrum
+  festival: Javazone
 - title: Røyksopp
   date: 20.08.2016
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Dimitri Vegas & Like Mike
   date: 20.08.2016
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Broiler
   date: 20.08.2016
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Lemaitre
   date: 20.08.2016
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Alan Walker
   date: 20.08.2016
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: Kygo
   date: 19.08.2016
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: David Guetta
   date: 19.08.2016
-  venue: Bislett Stadium (Findings)
+  venue: Bislett Stadium
+  festival: Findings
 - title: M83
   date: 06.08.2016
-  venue: Sirkus (Øya)
+  venue: Sirkus
+  festival: Øya
 - title: Aurora
   date: 06.08.2016
   venue: Øya
@@ -634,7 +757,8 @@
   venue: Sentrum Scene
 - title: Pow Pow
   date: 21.01.2011
-  venue: Teknisk Museum (Senkveld)
+  venue: Teknisk Museum
+  festival: Senkveld
 - title: Jonsi
   date: 12.08.2010
   venue: Øya
