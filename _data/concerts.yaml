@@ -830,7 +830,8 @@
   festival: Øya
 - title: Aurora
   date: 06.08.2016
-  venue: Øya
+  venue: Amfiet
+  festival: Øya
 - title: Mew
   date: 25.10.2015
   venue: Sentrum Scene
@@ -840,10 +841,12 @@
   festival: Senkveld
 - title: Jonsi
   date: 12.08.2010
-  venue: Øya
+  venue: Sjøsiden
+  festival: Øya
 - title: Miike Snow
   date: 12.08.2010
-  venue: Øya
+  venue: Vika
+  festival: Øya
 - title: Imogen Heap
   date: 25.02.2010
   venue: Rockefeller
@@ -852,10 +855,16 @@
   venue: Rockefeller
 - title: Røyksopp
   date: 15.08.2009
-  venue: Øya
+  venue: Enga
+  festival: Øya
+- title: Nils Bech
+  date: 15.08.2009
+  venue: Middelalderparken
+  festival: Øya
 - title: Crystal Castles
   date: 15.08.2009
-  venue: Øya
+  venue: Middelalderparken
+  festival: Øya
 - title: Bloc Party
   date: 23.02.2009
   venue: Sentrum Scene
@@ -870,13 +879,16 @@
   venue: Spektrum
 - title: System of a Down
   date: 17.06.2005
-  venue: Norwegian Wood
+  venue: Frognerbadet
+  festival: Norwegian Wood
 - title: Gåte
   date: 17.06.2005
-  venue: Norwegian Wood
+  venue: Frognerbadet
+  festival: Norwegian Wood
 - title: Stonegard
   date: 17.06.2005
-  venue: Norwegian Wood
+  venue: Frognerbadet
+  festival: Norwegian Wood
 - title: Dream Theater
   date: 21.01.2004
   venue: Spektrum
