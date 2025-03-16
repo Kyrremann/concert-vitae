@@ -5,9 +5,8 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <link rel="icon" href="{{ '/assets/favicon.ico' | prepend: site.baseurl }}" type="image/x-icon">
+  <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" type="image/x-icon">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="manifest" href="/assets/manifest.json" />
+  <link rel="canonical" href="{{ "/" | absolute_url }}">
   <link rel="manifest" href="{{ "/assets/manifest.json" | relative_url }}" />
 </head>
