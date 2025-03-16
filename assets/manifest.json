@@ -1,0 +1,17 @@
+{
+  "name": "Concert Vitae",
+  "start_url": "https://kyrremann.no/concert-vitae",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "assets/musical-notes-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/musical-notes-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
