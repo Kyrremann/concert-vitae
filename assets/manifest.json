@@ -1,7 +1,13 @@
 {
+  "lang": "en-us",
   "name": "Concert Vitae",
+  "short_name": "CV",
+  "description": "Concert Vitae is a web app that helps you keep track of your concert experiences.",
   "start_url": "https://kyrremann.no/concert-vitae",
+  "background_color": "#fefeca",
+  "theme_color": "#fefeca",
   "display": "minimal-ui",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "assets/musical-notes-192.png",
