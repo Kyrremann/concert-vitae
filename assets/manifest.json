@@ -6,7 +6,7 @@
   "start_url": "/concert-vitae",
   "background_color": "#f8f8f1",
   "theme_color": "#f8f8f1",
-  "display": "minimal-ui",
+  "display": "standalone",
   "orientation": "portrait",
   "icons": [
     {
