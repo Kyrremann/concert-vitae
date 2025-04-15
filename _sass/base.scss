@@ -72,6 +72,10 @@ body {
   margin: 0 25px;
 }
 
+fieldset input {
+  width: 100%;
+}
+
 // media queries
 @include media-query($on-palm) {
   body {

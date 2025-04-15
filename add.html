@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div>
+  <h2>Add concert</h2></div>
+<form class="pure-form pure-form-stacked" action="http://localhost:8080/add" id="uploadForm" method="POST">
+  <fieldset>
+    <label for="date">Date</label>
+    <input type="date" name="date" id="date" required="required">
+    <label for="title">Title</label>
+    <input type="text" name="title" id="title" required="required">
+    <label for="venue">Venue</label>
+    <input type="text" name="venue" id="venue" required="required">
+    <label for="support">Support</label>
+    <input type="text" name="support" id="support" placeholder="Use + for multiple supports">
+    <label for="festival">Festival</label>
+    <input type="text" name="festival" id="festival">
+    <label for="token">Token</label>
+    <input type="password" name="token" id="token" required="required">
+    <label for="toggle-token">
+      <input id="toggle-token" onclick="toggleToken()" type="checkbox" style="width: auto;"> Show Password
+    </label>
+    <button type="submit" class="pure-button pure-button-primary" style="margin-top: 0.25em; width: 100%;">Add</button>
+  </fieldset>
+</form>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('date').valueAsDate = new Date();
+  });
+
+  function toggleToken() {
+    var token = document.getElementById("token");
+    if (token.type === "password") {
+      token.type = "text";
+    } else {
+      token.type = "password";
+    }
+  }
+</script>
