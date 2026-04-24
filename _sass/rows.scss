@@ -14,8 +14,13 @@
 
 .row__cols {
   font-weight: 700;
-  overflow: hidden;
   border-bottom: 1px solid $color__black;
+}
+
+.row__cols,
+.row__post {
+  display: flex;
+  align-items: baseline;
 }
 
 .header__title,
@@ -24,7 +29,7 @@
 .row__title,
 .row__date,
 .row__venue {
-  float: left;
+  flex-shrink: 0;
 }
 
 .row__title {
@@ -50,11 +55,16 @@
 }
 
 @media (max-width: $on-palm) {
+  .row__post {
+    display: block;
+  }
+
   .header__date,
   .header__venue,
+	.row__date,
   .row__venue {
     position: relative;
-    margin-left: 10px;
+    margin-left: 20px;
 
     &:before {
       position: absolute;
