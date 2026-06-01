@@ -40,9 +40,8 @@ self.addEventListener("activate", (event) => {
 // On fetch, intercept server requests
 // and respond with cached responses instead of going to network
 self.addEventListener("fetch", (event) => {
-  // As a single page app, direct app to always go to cached home page.
+  // Let all navigate requests go to the network.
   if (event.request.mode === "navigate") {
-    event.respondWith(caches.match("/"));
     return;
   }
 
@@ -55,8 +54,8 @@ self.addEventListener("fetch", (event) => {
         // Return the cached response if it's available.
         return cachedResponse;
       }
-      // If resource isn't in the cache, return a 404.
-      return new Response(null, { status: 404 });
+      // If resource isn't in the cache, try the network.
+      return fetch(event.request);
     })(),
   );
 });
