@@ -1,7 +1,7 @@
 use axum::{
+    Router,
     response::Html,
     routing::{get, post},
-    Router,
 };
 use concert_vitae_function::add;
 

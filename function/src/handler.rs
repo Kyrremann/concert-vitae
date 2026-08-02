@@ -4,7 +4,7 @@ use std::{
     path::Path,
 };
 
-use axum::{response::Html, Form};
+use axum::{Form, response::Html};
 use git2::{Cred, PushOptions, RemoteCallbacks, Repository, Signature};
 use serde::{Deserialize, Serialize};
 use serde_yaml;
