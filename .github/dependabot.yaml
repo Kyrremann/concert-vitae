@@ -5,15 +5,6 @@
 
 version: 2
 updates:
-  - package-ecosystem: "cargo"
-    directory: "function/"
-    schedule:
-      interval: "weekly"
-    groups:
-      rust:
-        patterns:
-          - '*'
-
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
